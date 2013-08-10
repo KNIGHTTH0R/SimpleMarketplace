@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/HM1/!svn/ver/35/Marketplace/src/bank
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/HM1/!svn/ver/35/Marketplace/src/bank/Account.java
+END
+Bank.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/HM1/!svn/ver/35/Marketplace/src/bank/Bank.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/HM1/!svn/ver/35/Marketplace/src/bank/Client.java
+END
+IBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/HM1/!svn/ver/35/Marketplace/src/bank/IBank.java
+END
+IAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/HM1/!svn/ver/35/Marketplace/src/bank/IAccount.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/HM1/!svn/ver/35/Marketplace/src/bank/Server.java
+END
+RejectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/HM1/!svn/ver/33/Marketplace/src/bank/RejectedException.java
+END
