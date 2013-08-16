@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
-        <file>file:/C:/Users/alberto/Documents/NetBeansProjects/Marketplace/src/bank/Server.java</file>
-        <file>file:/C:/Users/alberto/Documents/NetBeansProjects/Marketplace/src/server/MarketServer.java</file>
-        <file>file:/C:/Users/alberto/Documents/NetBeansProjects/Marketplace/src/server/Marketplace.java</file>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/client/MarketClient.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/bank/Account.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/server/MarketServer.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/bank/Client.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/bank/Server.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/bank/Bank.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/bank/IAccount.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/server/IMarketplace.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/bank/IBank.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/server/Item.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/bank/RejectedException.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/client/IMarketCommunicator.java</file>
+            <file>file:/C:/Users/AsusG53s/Documents/NetBeansProjects/Marketplace/src/server/Marketplace.java</file>
+        </group>
     </open-files>
 </project-private>
